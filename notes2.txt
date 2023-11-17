@@ -1,3 +1,4 @@
 small
 medium
 large
+This is a new feature
